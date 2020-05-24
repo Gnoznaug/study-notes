@@ -1,0 +1,13 @@
+assigning a variable to a defined function to make it work
+e.g. n = int count_apple(void)
+
+global variables
+const int N = 3;
+
+arrays
+int scores[3];
+scores[0] = 1;
+scores[1] = 2;
+scores[3] = 3;
+
+

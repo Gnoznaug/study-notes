@@ -11,3 +11,13 @@ scores[1] = 2;
 scores[3] = 3;
 
 
+typedef struct
+{
+    string name;
+    string number;
+}
+person;
+
+person people[4];
+people[0].name = "EMMA";
+people[0].number = "215623625";

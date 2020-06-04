@@ -21,3 +21,11 @@ person;
 person people[4];
 people[0].name = "EMMA";
 people[0].number = "215623625";
+
+to round up int
+{
+    float a = 5;
+    float b = 4;
+    float c = 5;
+    int d = round((a + b + c) / 3)
+}

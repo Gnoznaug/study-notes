@@ -9,5 +9,6 @@
 # Booting
 - Loads the kernel into memory.
 
-
-  
+# Systems Software
+## Operating System
+- 

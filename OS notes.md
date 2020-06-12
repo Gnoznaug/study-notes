@@ -32,9 +32,10 @@
     - Open source
     - More stable than windows, easy reinstallation
     - Scarce applications
-- Graphical UI - Windows - on screen pictures
+- Graphical UI / Windows / on screen pictures
 
 ### Platform
 - Computer hardware and operating system software that dictate what other softwares can run.
-- Wintel - Intel-based PC running Windows
+- Wintel 
+  - Intel-based PC running Windows
 

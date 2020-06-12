@@ -28,7 +28,7 @@
     -Supports Multi-user 
     -Primarily used on Internet servers
     -Runs on various processors and many types of computers
-  -Linux
+  - Linux
     -Open source
     -More stable than windows, easy reinstallation
     -Scarce applications

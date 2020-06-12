@@ -25,13 +25,13 @@
 - Is the bridge between the user and the OS
 - Command line / text-based, key commands MS-DOS
   - UNIX
-    -Supports Multi-user 
-    -Primarily used on Internet servers
-    -Runs on various processors and many types of computers
+    - Supports Multi-user 
+    - Primarily used on Internet servers
+    - Runs on various processors and many types of computers
   - Linux
-    -Open source
-    -More stable than windows, easy reinstallation
-    -Scarce applications
+    - Open source
+    - More stable than windows, easy reinstallation
+    - Scarce applications
 - Graphical UI - Windows - on screen pictures
 
 ### Platform

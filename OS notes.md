@@ -15,6 +15,11 @@
 - Execute software
 - Does the input and output operations
 - Different types such as command line, Single user PC, Network Operating System(NOS)
+- NOS
+  - Designed to permit computers on a network to share resources
+  - Windows 2000 server
+  - Novell Net Ware
+  - Provides data security and administrative control
 
 ### User Interface
 - Is the bridge between the user and the OS
@@ -23,6 +28,10 @@
     -Supports Multi-user 
     -Primarily used on Internet servers
     -Runs on various processors and many types of computers
+  -Linux
+    -Open source
+    -More stable than windows, easy reinstallation
+    -Scarce applications
 - Graphical UI - Windows - on screen pictures
 
 ### Platform
